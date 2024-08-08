@@ -1,0 +1,90 @@
+[
+    {
+        "image": "assets/images/hodi-offer.png",
+        "imageOne": "assets/images/hodi-offer-1.png",
+        "imageTwo": "assets/images/hodi-offer-2.png",
+        "productName": "Product name",
+        "productDes": " totam rem aperiam, eaque ipsa quae ab illo inventore",
+        "rate": "4",
+        "sales": "86",
+        "firstPrice": "80$",
+        "secondPrice": "70$"
+    },
+    {
+        "image": "assets/images/bag-offer.png",
+        "imageOne": "assets/images/bag-offer-1.png",
+        "imageTwo": "assets/images/bag-offer-2.png",
+        "productName": "Product name",
+        "productDes": " totam rem aperiam, eaque ipsa quae ab illo inventore",
+        "rate": "3",
+        "sales": "68",
+        "firstPrice": "120$",
+        "secondPrice": "100$"
+    },
+    {
+        "image": "assets/images/mobile-one-2.png",
+        "imageOne": "assets/images/mobile-one-1.png",
+        "imageTwo": "assets/images/mobile-one.png",
+        "productName": "Product name",
+        "productDes": " totam rem aperiam, eaque ipsa quae ab illo inventore",
+        "rate": "5",
+        "sales": "90",
+        "firstPrice": "30,000$",
+        "secondPrice": "29,200$"
+    },    
+    {
+        "image": "assets/images/touser-offer.png",
+        "imageOne": "assets/images/touser-offer-1.png",
+        "imageTwo": "assets/images/touser-offer-2.png",
+        "productName": "Product name",
+        "productDes": " totam rem aperiam, eaque ipsa quae ab illo inventore",
+        "rate": "4",
+        "sales": "46",
+        "firstPrice": "130$",
+        "secondPrice": "110$"
+    },
+    {
+        "image": "assets/images/hodi-offer.png",
+        "imageOne": "assets/images/hodi-offer-1.png",
+        "imageTwo": "assets/images/hodi-offer-2.png",
+        "productName": "Product name",
+        "productDes": " totam rem aperiam, eaque ipsa quae ab illo inventore",
+        "rate": "4",
+        "sales": "86",
+        "firstPrice": "80",
+        "secondPrice": "70"
+    },
+    {
+        "image": "assets/images/bag-offer.png",
+        "imageOne": "assets/images/bag-offer-1.png",
+        "imageTwo": "assets/images/bag-offer-2.png",
+        "productName": "Product name",
+        "productDes": " totam rem aperiam, eaque ipsa quae ab illo inventore",
+        "rate": "3",
+        "sales": "68",
+        "firstPrice": "120$",
+        "secondPrice": "100$"
+    },
+    {
+        "image": "assets/images/mobile-one-2.png",
+        "imageOne": "assets/images/mobile-one-1.png",
+        "imageTwo": "assets/images/mobile-one.png",
+        "productName": "Product name",
+        "productDes": " totam rem aperiam, eaque ipsa quae ab illo inventore",
+        "rate": "5",
+        "sales": "90",
+        "firstPrice": "30,000$",
+        "secondPrice": "29,200$"
+    },    
+    {
+        "image": "assets/images/touser-offer.png",
+        "imageOne": "assets/images/touser-offer-1.png",
+        "imageTwo": "assets/images/touser-offer-2.png",
+        "productName": "Product name",
+        "productDes": " totam rem aperiam, eaque ipsa quae ab illo inventore",
+        "rate": "4",
+        "sales": "46",
+        "firstPrice": "130$",
+        "secondPrice": "100$"
+    }
+]
